@@ -1,0 +1,79 @@
+Build: 1.16.1-32.0.15 - Fri Jun 26 13:55:42 GMT 2020
+	thpetuaudletang:
+		Include a getter for the matrix stack in OverlayEvent (#6834)
+
+=========
+Build: 1.16.1-32.0.14 - Fri Jun 26 13:23:07 GMT 2020
+	thpetuaudletang:
+		Fix block render types not being properly applied to item entities (#6832)
+
+=========
+Build: 1.16.1-32.0.13 - Fri Jun 26 13:05:18 GMT 2020
+	mods.itsmeow:
+		[1.16.x] Allow GlobalEntityTypeAttributes' EntityType -> AttributeModifierMap to be added to (#6822)
+		
+		* Make GlobalEntityTypeAttributes map able to be added to
+		
+		* Split get patch into two lines
+		
+		* Favor Forge's map over vanilla
+
+=========
+Build: 1.16.1-32.0.12 - Fri Jun 26 12:59:19 GMT 2020
+	thpetuaudletang:
+		Fixed creative screen arrows (#6827)
+
+	Yunus1903:
+		Added call to method for tooltip with FontRenderer (#6831)
+
+=========
+Build: 1.16.1-32.0.10 - Fri Jun 26 12:36:59 GMT 2020
+	curle:
+		Retarget Block.Properties patch to the new AbstractBlock, reintroduce harvestLevel and harvestTool fields (#6819)
+		
+		* Retarget Block.Properties patch to the new AbstractBlock, reintroduces the harvestLevel and harvestTool fields.
+		
+		* Slight adjustment to fix the lootTableSupplier.
+
+=========
+Build: 1.16.1-32.0.9 - Fri Jun 26 12:31:37 GMT 2020
+	Yunus1903:
+		Fixed sneaking while swimming (#6817)
+
+=========
+Build:  - Fri Jun 26 12:25:07 GMT 2020
+	thpetuaudletang:
+		Fixed tooltip rendering issues (#6815)
+
+=========
+Build: 1.16.1-32.0.7 - Fri Jun 26 02:30:54 GMT 2020
+	thpetuaudletang:
+		Fixed villager trades having non-applicable enchants
+		
+		Also added an AT at lex's request
+
+=========
+Build: 1.16.1-32.0.6 - Fri Jun 26 01:52:19 GMT 2020
+	thpetuaudletang:
+		Fix locate command (#6811)
+
+	thpetuaudletang:
+		Fix block drops (#6810)
+
+	contact:
+		Add missing patch to ScreenShotHelper (#6809)
+		
+		Adds the missed patch back
+
+	Yunus1903:
+		Updated MDK mods.toml versions (#6808)
+
+=========
+Build: 1.16.1-32.0.2 - Fri Jun 26 01:41:51 GMT 2020
+	lex:
+		Rework BlockSnapshot and fix client notifications. Closes #6807
+
+=========
+Build: 1.16.1-32.0.1 - Thu Jun 25 23:24:48 GMT 2020
+	lex:
+		Bump MCPConfig version.
